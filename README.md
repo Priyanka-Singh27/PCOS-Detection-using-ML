@@ -1,8 +1,6 @@
-<img width="812" height="544" alt="Screenshot 2025-07-21 185854" src="https://github.com/user-attachments/assets/a4cfdebc-3d60-4497-a512-71be6d371ec5" /># 🧠 PCOS Detection Web Application using Machine Learning
+🧠 PCOS Detection Web Application using Machine Learning
 
 This project is a machine learning-based web application that detects **Polycystic Ovary Syndrome (PCOS)** using medical data. It provides a user-friendly interface where individuals can input their clinical parameters through a form, and the app returns the predicted probability of being diagnosed with PCOS. The system is built using Python and Flask, and leverages advanced feature selection techniques and optimized machine learning models for high diagnostic accuracy.
-
-![Workflow Diagram](workflow%20chart.png)
 
 ---
 
@@ -15,7 +13,6 @@ This project is a machine learning-based web application that detects **Polycyst
 - [Results](#results)
 - [Screenshots](#screenshots)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -107,9 +104,11 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## 🖼️Screenshots
+## Results
 
 <img width="812" height="544" alt="Screenshot 2025-07-21 185854" src="https://github.com/user-attachments/assets/769648b4-228e-4dab-a86d-07fd845a6cd3" />
+
+## 🖼️Screenshots
 
 ![ss1](https://github.com/user-attachments/assets/6b753195-5dcd-40bc-98ca-307b75389778)
 
